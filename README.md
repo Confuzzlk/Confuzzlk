@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Confuzzlk
-- 👀 I’m interested in game development but mostly gaming ...
+- 👀 I’m interested in game development but mostly gaming
 - 🌱 I’m currently learning Java, SQL and JSON
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: Discord - Confuzzle'd#4979
